@@ -1,0 +1,42 @@
+[
+    {
+        "pregunta" : "¿Qué significan las siglas HTML?",
+        "1": "Hyper Text Marked Lenguage",
+        "2": "Hyper Text Markup Language",
+        "3": "High Technology Modern Language",
+        "4": "Hyper Transferable Text Language",
+        "5": "Hyper Text Markup Language"
+    },
+    {
+        "pregunta" : "¿Qué lenguaje se utiliza principalmente para dar estilo y diseño a páginas web?",
+        "1": "CSS",
+        "2": "JavaScript",
+        "3": "PHP",
+        "4": "HTML",
+        "5": "CSS"
+    },
+    {
+        "pregunta" : "¿Cuál de los siguientes lenguajes de programación es ampliamente conocido por su simplicidad y legibilidad?",
+        "1": "Java",
+        "2": "Cobol",
+        "3": "C++",
+        "4": "Python",
+        "5": "Python"
+    },
+    {
+        "pregunta" : "¿Qué tipo de base de datos se utiliza comúnmente para almacenar información en tablas relacionales?",
+        "1": "SQL",
+        "2": "NoSQL",
+        "3": "MongoDB",
+        "4": "SQLite",
+        "5": "SQL"
+    },
+    {
+        "pregunta" : "¿Cuál de las siguientes versiones de HTML es la más reciente en el momento?",
+        "1": "HTML4",
+        "2": "HTML5",
+        "3": "HTML6",
+        "4": "HTMLX",
+        "5": "HTML5"
+    }
+]
